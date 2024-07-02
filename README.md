@@ -1,5 +1,5 @@
 <img src="https://raw.githubusercontent.com/ricardoclandim/ricardoclandim/master/banner.png"/>
- <hr></hr>
+
 <p align="center">
 
 
