@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+___________________________
+
+Welcome to my Github repository. Here you will find some open-source projects. 
+___________________________
+
+
 <!--
 **ricardoclandim/ricardoclandim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
